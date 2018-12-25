@@ -1,0 +1,10 @@
+{
+    "name": "mongo",
+    "connector": "mongodb",
+    "url": "ds037415.mlab.com",
+    "host": "",
+    "port": 37415,
+    "user": "admin",
+    "password": "webfetti23",
+    "database": "utem"
+}
